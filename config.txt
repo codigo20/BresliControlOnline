@@ -1,2 +1,2 @@
 [Config]
-boton1=1
+boton1=0
